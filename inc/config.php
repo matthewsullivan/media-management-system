@@ -12,12 +12,12 @@ require __DIR__ . "../../model/LS.php";
 
 \Fr\LS::config(array(
   "db" => array(
-    "host" => "mysql.gizapeaks.com",
-    "port" => 3306,
-    "username" => "gizaadmin",
-    "password" => "oL3d7CxQ33",
-    "name" => "gizapeaks",
-    "table" => "users"
+    "host" => "",
+    "port" => 0,
+    "username" => "",
+    "password" => "",
+    "name" => "",
+    "table" => ""
   ),
   "features" => array(
     "auto_init" => true
